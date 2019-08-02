@@ -1,9 +1,9 @@
 # 02.py
-vgl = input(" ")
+jun = input(" ")
 try:
-  vgl = int (vgl)
-mod = vgl% 2
-if mod > 0:
+  jun = int (jun)
+frs = jun% 2
+if frs > 0:
   print("Odd")
   else:
   print("Even")
