@@ -1,8 +1,8 @@
 # 02.py
-val = input(" ")
+vgl = input(" ")
 try:
-  val = int (val)
-mod = val% 2
+  vgl = int (vgl)
+mod = vgl% 2
 if mod > 0:
   print("Odd")
   else:
